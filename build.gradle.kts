@@ -18,8 +18,9 @@ java {
 }
 
 dependencies {
-    //implementation("org.jetbrains.kotlin:kotlin-stdlib:1.3.71")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.3.71:modular")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:1.3.71:modular")
+
 }
 
 tasks {
