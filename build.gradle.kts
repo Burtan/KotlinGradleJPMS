@@ -3,7 +3,7 @@ repositories {
 }
 
 group = "app.burtan"
-val objectboxVersion = "2.5.1"
+val objectboxVersion = "2.9.1"
 
 plugins {
     application
