@@ -7,7 +7,7 @@ val objectboxVersion = "2.5.1"
 
 plugins {
     application
-    kotlin("jvm") version "1.3.71"
+    kotlin("jvm") version "2.4.10"
     id("io.objectbox") version "2.5.1"
 }
 
